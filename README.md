@@ -1,1 +1,2 @@
 # Seleccion
+Ejercicio algoritmo seleccion
