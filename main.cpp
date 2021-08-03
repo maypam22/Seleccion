@@ -5,7 +5,7 @@ void ingresar(int a[],int n);
 void ordenar(int a[],int n);
 void imprimir(int a[],int n);
 
-
+//
 int main()
 {
     int arreglo1[TAM];
